@@ -1,1 +1,1 @@
-Teste de privacidade e utilitários (em construção).
+Teste de privacidade: rode `python -m unittest discover -s tests`. Opcional: `python tests/instalar_gancho.py` liga um pre-commit local que roda esse teste; para gerar `proibidos.sha256`, veja `gerar_proibidos.py`.
